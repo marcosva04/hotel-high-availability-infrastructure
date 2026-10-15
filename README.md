@@ -1,2 +1,2 @@
-# hotel-high-availability-infrastructure
-Diseño de infraestructura para un entorno hotelero con alta disponibilidad, control de acceso basado en roles y continuidad de servicio.
+# Proyecto final de ASIR (10/10)
+Diseño de infraestructura para un entorno hotelero con alta disponibilidad, RBAC, seguridad perimetral y servicios web.
